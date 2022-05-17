@@ -2,6 +2,8 @@
 
 
 📫 My Blog: [meguriri.io](https://meguriri.github.io/) 
+
+⚡Fun fact: 📺Japanese Anime,🎮Video Game，📸take photos...
 <!--
 **meguriri/meguriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +18,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meguriri)](https://github.com/meguriri/github-readme-stats)
-
- 
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+               
+ ### Most Used Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meguriri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+            </td>
+            <td>
+               
+ ### My Github stats 
+![meguriri's GitHub stats](https://github-readme-stats.vercel.app/api?username=meguriri&show_icons=true)
+            </td>
+        </tr>
+    </table>
+</html>
