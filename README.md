@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meguriri&layout=compact&hide=C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meguriri&layout=compact)](https://github.com/meguriri/github-readme-stats)
 
  
