@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi,I'm meguriri 👋
+
+My Blog: [!](https://meguriri.github.io/) 
 <!--
 **meguriri/meguriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Working on... 
+<table><tr><td valign="top" width="33%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meguriri)](https://github.com/meguriri/github-readme-stats)
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+</div>
+
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meguriri&layout=compact)](https://github.com/meguriri/github-readme-stats)
+
+ 
