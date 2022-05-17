@@ -1,6 +1,6 @@
 ### Hi,I'm meguriri 👋
 
-My Blog: [!](https://meguriri.github.io/) 
+My Blog: [meguriri.io](https://meguriri.github.io/) 
 <!--
 **meguriri/meguriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meguriri&layout=compact)](https://github.com/meguriri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meguriri&layout=compact&hide=C)](https://github.com/anuraghazra/github-readme-stats)
 
  
