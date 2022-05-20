@@ -3,7 +3,7 @@
 
 📫 My Blog: [meguriri.io](https://meguriri.github.io/) 
 
-⚡Fun fact: 📺Japanese Anime,🎮Video Game，📸take photos...
+⚡Hobby: 📺Japanese Anime,🎮Video Game，📸take photos...
 <!--
 **meguriri/meguriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
