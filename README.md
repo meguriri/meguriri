@@ -1,8 +1,6 @@
 ### Hi,I'm meguriri 👋
 
 
-📫 My Blog: [meguriri.io](https://meguriri.github.io/) 
-
 ⚡Hobby: 📺Japanese Anime,🎮Video Game，📸take photos...
 <!--
 **meguriri/meguriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
